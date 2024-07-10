@@ -32,5 +32,7 @@ A temporary workaround of making chunks as documents in opensearch has many othe
 
 
 This seems to be a common request, mentioned in a couple recent issues including:
+
 https://github.com/opensearch-project/neural-search/issues/718
+
 https://github.com/opensearch-project/ml-commons/issues/2612
