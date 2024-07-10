@@ -1,0 +1,4 @@
+opensearch-py==2.6.0
+pydantic==1.10.13
+sentence_transformers==3.0.1
+transformers==4.39.2
